@@ -4,7 +4,7 @@ const sum = (a,b) => {
 }
 
 // just a console log for ourselves.
-console.log(7,3)
+console.log(sum(7,3))
 
 // export the function to be used on other files 
 // (similar to the keyword `export` when using webpack)
